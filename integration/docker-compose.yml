@@ -1,0 +1,5 @@
+services:
+  bankweb:
+    image: bankweb:0.0.3
+    ports:
+      - "8081:8081"
