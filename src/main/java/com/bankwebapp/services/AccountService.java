@@ -24,7 +24,6 @@ public class AccountService {
     }
 
 
-
     public AccountDto createAccount (CreateAccountRequest createAccountRequest){
         CustomerDto customer =customerService.getCustomerById(createAccountRequest.getCustomerId());
         if(customer.getId() == null||customer.getId().equals("")){
