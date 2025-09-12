@@ -1,2 +1,7 @@
 com/bankwebapp/BankwebappApplicationTests.class
 com/bankwebapp/services/AccountServiceTest.class
+com/bankwebapp/repositories/AccountRepositoryTest.class
+com/bankwebapp/controllers/AccountControllerTest.class
+com/bankwebapp/repositories/CustomerRepositoryTest.class
+com/bankwebapp/controllers/CustomesControllerTest.class
+com/bankwebapp/services/CustomerServiceTest.class

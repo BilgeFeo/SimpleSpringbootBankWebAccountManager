@@ -1,2 +1,7 @@
 /home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/BankwebappApplicationTests.java
+/home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/controllers/AccountControllerTest.java
+/home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/controllers/CustomesControllerTest.java
+/home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/repositories/AccountRepositoryTest.java
+/home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/repositories/CustomerRepositoryTest.java
 /home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/services/AccountServiceTest.java
+/home/asamet/Projects/SpringProjects/SimpleSpringbootBankWebAccountManager/src/test/java/com/bankwebapp/services/CustomerServiceTest.java
